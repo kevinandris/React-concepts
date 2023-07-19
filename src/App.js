@@ -1,10 +1,11 @@
 import './App.css';
+import StateTutorial from './UseState/StateTutorial';
 
 function App() {
   return (
     <>
       <div className="App">
-          <h1>Welcome to my app</h1>
+          <StateTutorial/>
       </div>
     </>
   );
