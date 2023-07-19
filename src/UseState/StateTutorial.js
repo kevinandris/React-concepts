@@ -10,7 +10,7 @@ const StateTutorial = () => {
     };
     
     return (
-        <div className='useStateStyle'>
+        <div>
             <input  placeholder='enter something...' onChange={onChange}/>
             {inputValue}
         </div>
